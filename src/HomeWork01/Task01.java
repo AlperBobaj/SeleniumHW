@@ -16,7 +16,7 @@ public class Task01 {
         System.setProperty("webdriver.chrome.driver","Drivers/chromedriver");
 
        WebDriver driver=new ChromeDriver();
-       driver.navigate().to("https://www.amazon.com");
+       driver.navigate().to("https://www.amazon.com/");
         System.out.println(driver.getTitle());
         driver.close();
 
