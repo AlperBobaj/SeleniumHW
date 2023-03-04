@@ -13,11 +13,11 @@ locators in selenium :
 
 1.Relative Xpath:
 
-	a.Syntax for xapth (finding by attribute):
+	a.Syntax for xpath (finding by attribute):
 							//tagname[@attribute='attribute value']
 
 							translation:
-									hey get me the tagname , which has an 'attibute' whose value is "attribute value"
+									hey get me the tag-name , which has an 'attibute' whose value is "attribute value"
 
 
                               *****   Example  ****
